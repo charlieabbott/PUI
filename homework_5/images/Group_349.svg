@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.213 72.629">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6363ad;
+        stroke: #6363ad;
+        stroke-width: 6px;
+        opacity: 0.496;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 33px;
+        font-family: Optima-Bold, Optima;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_349" data-name="Group 349" transform="translate(-922.304 -235.873)">
+    <path id="Path_109" data-name="Path 109" class="cls-1" d="M373.13,2531.873H631.68l44.643,36.235L631.68,2598.5H373.13Z" transform="translate(552.174 -2293)"/>
+    <text id="Color_Quantity" data-name="Color/Quantity" class="cls-2" transform="translate(1066 283)"><tspan x="-110.946" y="0">Color/Quantity</tspan></text>
+  </g>
+</svg>

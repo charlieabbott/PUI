@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.213 72.629">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6363ad;
+        stroke: #6363ad;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 33px;
+        font-family: Optima-Bold, Optima;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_348" data-name="Group 348" transform="translate(-286.304 -235.873)">
+    <g id="Group_19" data-name="Group 19">
+      <path id="Path_109" data-name="Path 109" class="cls-1" d="M373.13,2531.873H631.68l44.643,36.235L631.68,2598.5H373.13Z" transform="translate(-83.826 -2293)"/>
+    </g>
+    <text id="Square" class="cls-2" transform="translate(430 283)"><tspan x="-49.516" y="0">Square</tspan></text>
+  </g>
+</svg>
