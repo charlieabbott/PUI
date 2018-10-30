@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.213 72.629">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #6363ad;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #6a6cb1;
+        font-size: 33px;
+        font-family: Optima-Bold, Optima;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_344" data-name="Group 344" transform="translate(-286.304 -235.873)">
+    <g id="Symbol_12_1" data-name="Symbol 12 – 1">
+      <g id="Symbol_13_1" data-name="Symbol 13 – 1">
+        <g id="Symbol_14_1" data-name="Symbol 14 – 1">
+          <path id="Path_109" data-name="Path 109" class="cls-1" d="M373.13,2531.873H631.68l44.643,36.235L631.68,2598.5H373.13Z" transform="translate(-83.826 -2293)"/>
+          <path id="Path_236" data-name="Path 236" class="cls-1" d="M373.13,2531.873H631.68l44.643,36.235L631.68,2598.5H373.13Z" transform="translate(-83.826 -2293)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_343" data-name="Group 343">
+      <text id="Type" class="cls-2" transform="translate(430 283)"><tspan x="-33.627" y="0">Type</tspan></text>
+    </g>
+  </g>
+</svg>

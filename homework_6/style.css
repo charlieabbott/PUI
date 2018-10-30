@@ -1,0 +1,259 @@
+body {
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    color: #6363AD;
+    background-image: url("images/down_background.jpg");
+    background-color: #cccccc;
+    text-align: center;
+}
+
+a{
+	text-decoration: none;
+	cursor: hand;
+}
+
+.head_container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	text-decoration: none;
+	padding: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin:0;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 30px;
+	background-color: #ffffff;
+	margin-right: 10%;
+	margin-left:  10%;
+	border-radius: 25px;
+}
+
+.container-top {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #ffffff;
+	margin-right: 10%;
+	margin-left:  10%;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+}
+
+.container-bottom {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #ffffff;
+	margin-right: 10%;
+	margin-left:  10%;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.container_box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 30px;
+	border-radius: 25px;
+	max-width: 851px;
+	max-height: 771px;
+}
+
+.cust_test {
+	background-color: #889396;
+	font-size: 19px;
+	border-radius: 25px;
+
+}
+.testimony {
+	color: #D8FFFD;
+}
+
+.left_box {
+		font-size: 30px;
+		border-radius: 25px;
+}
+.nav_buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin:0;
+}
+
+.button {
+	font-size: 20px;
+	background-color: #B0B1D5;
+	color: white;
+	border-radius: 12px;
+	border: none;
+}
+
+.left_row {
+  display: flex;
+  flex-direction: row;
+  padding: 10px ;
+  justify-content: flex-end;
+}
+
+.right_row {
+  display: flex;
+  flex-direction: row;
+  padding: 10px ;
+  justify-content: space-between;
+}
+
+.product_text_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px;
+  font-size: 30px ;
+}
+
+.selection_buttons{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding:0px;
+}
+
+.starthere{
+	text-orientation: center;
+}
+
+.bottom_container{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	padding: 10px;
+}
+
+.h2{
+	text-align: center;
+}
+
+.container-bottom2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #ffffff;
+	margin-right: 10%;
+	margin-left:  10%;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.colorbox{
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+	min-width: 25%;
+}
+
+
+.colorbox1{
+	display:flex;
+	flex-direction: column;
+	background-color: #F2D86D;
+	height: 300px;
+}
+
+.colorbox2{
+	display:flex;
+	flex-direction: column;
+	background-color: #DA677C;
+	height: 300px;
+}
+
+.colorbox3{
+		display:flex;
+	flex-direction: column;
+	background-color: #7897C3;
+	height: 300px;
+}
+.colorbox4{
+		display:flex;
+	flex-direction: column;
+	background-color: #9CA4A8;
+	height: 300px;
+}
+
+.dropdown{
+	margin-bottom:10%;
+	text-align: center;
+
+}
+.colortext{
+	margin-bottom: 10%;
+	text-align: center;
+	width:100%;
+}
+
+.h3{
+	margin-right: 20px;
+}
+
+.checkout_header {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	text-decoration: none;
+	padding: 0px;
+}
+
+.final-items {
+  	display: flex;
+  	flex-direction: row;
+  	justify-content: flex-start;
+  	text-decoration: none;
+  	padding: 0px;
+    margin-right: 10%;
+    margin-left:  10%;
+    border-radius: 25px;
+  }
+
+ #cart_items_number {
+    margin-top: 0px;
+    color: #FFFFFF;
+    font-size: 30px;
+  }
+
+.product_type{
+   color: #6363AD;
+   cursor: pointer;
+}
+
+.fillingbox1{
+	display:flex;
+	flex-direction: column;
+	background-image: url(images/down.jpg);
+	height: 300px;
+	min-width: 33.33%
+}
+
+.fillingbox2{
+	display:flex;
+	flex-direction: column;
+	background-image: url(images/poly.jpg);
+	height: 300px;
+	min-width: 33.33%
+}
+
+.fillingbox3{
+		display:flex;
+	flex-direction: column;
+	background-image: url(images/memory.jpg);
+	height: 300px;
+	min-width: 33.33%
+}
+
