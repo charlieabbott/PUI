@@ -264,6 +264,12 @@ ul {
 	background-color: #ffffff;
 	margin-right: 10%;
 	margin-left:  10%;
-	border-top-left-radius: 25px;
-	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+#round_detail.productImage{
+	background-image: url(images/61J4n3o8xNL._SL1500_.svg);
+	display: flex;
+	flex-direction: column
 }
