@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/charlieabbott/Downloads/PUI-12-dataviz-master/js/script2.js",
+		"/Users/charlieabbott/Downloads/PUI-12-dataviz-master/js/script1.js",
+		"/Users/charlieabbott/Downloads/PUI-12-dataviz-master/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_8/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/index.html",
+		"/Users/charlieabbott/Downloads/starter-code/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_8/index.html",
+		"/Users/charlieabbott/Downloads/Week 10 PUI MapDemo/index.html",
+		"/Users/charlieabbott/Downloads/IXD Persona Project 4-4.svg",
+		"/Users/charlieabbott/Downloads/Week 10 PUI MapDemo/main.js",
+		"/Users/charlieabbott/Downloads/pausch-master/public/index.html",
+		"/Users/charlieabbott/Downloads/starter-code/main.js",
+		"/Users/charlieabbott/Downloads/starter-code/framework.js",
+		"/Users/charlieabbott/Downloads/main.js",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/main.js",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/detail.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/cart.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/product_list.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/color.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/filling.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_6/coffeescript.js",
+		"/Users/charlieabbott/Documents/GitHub/PUI/PUI-Lab7-master/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/PUI-Lab7-master/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_5/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_5/color.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_5/product_list.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/homework_5/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week6_lab/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week6_lab/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week6_lab/main.js",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week6_lab/list.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week5_part1_lab/main.js",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week5_part1_lab/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week5_part1_lab/list.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week5_part1_lab/index.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week4_lab/style.css",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week4_lab/list.html",
+		"/Users/charlieabbott/Documents/GitHub/PUI/week4_lab/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
