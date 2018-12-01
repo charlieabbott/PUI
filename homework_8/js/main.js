@@ -566,6 +566,9 @@ $(function(){
 	$('#demo_button').on('click',function(){
 		$(".invisible").removeClass("invisible");
 		$(".demo").addClass("animated");
+		$("#arrows").addClass("delay-1s");
+		$(".fts").addClass("delay-3s");
+		$(".solera_info").addClass("tenseconds");
 	});
 });	
 
